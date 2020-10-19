@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "roleCd": null,
+        "realName": "刘乐",
+        "notes": "测试数据",
+        "organizeName": "财务部",
+        "userPic": "https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoJ5ibdLyg1NhgUBke2DsmnwPsCxCbFQpqnJ5b9QPiaicw83N44LqRAoeVzWCFUaArtyeBghu959gwIg/132",
+        "openId": "oU8rz5HUFkt0R6_w035-DbGdkoZM",
+        "organizeCd": null,
+        "welcomePageEject": "Y",
+        "userType": "2",
+        "userName": "yk13601207605"
+    }
+}
